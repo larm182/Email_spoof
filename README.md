@@ -41,6 +41,4 @@ Este script en Python permite realizar **email spoofing**, es decir, el envío d
 
 Ejemplo: 
 
-![email_spoofing](https://github.com/user-attachments/assets/35efc191-6e67-4784-9b36-914388e54930)
-
-
+![email_spoofing - ](https://github.com/user-attachments/assets/8c14dae2-c7cd-48b1-9864-491554e06260)
