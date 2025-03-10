@@ -1,0 +1,5 @@
+smtplib
+csv
+email
+os
+tkinter
